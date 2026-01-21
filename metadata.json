@@ -1,0 +1,7 @@
+{
+  "name": "Ore & Economic Geology AI",
+  "description": "A bilingual (English/Urdu) AI-powered expert system for mineral exploration, ore deposit identification, and geochemical heat-map visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
